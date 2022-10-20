@@ -56,9 +56,9 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/og_clams.png # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
@@ -227,13 +227,13 @@ display_tags: ['process synthesis', 'math modeling', 'optimization', 'control', 
 
 scholar:
 
-  last_name: [Jiang]
-  first_name: [Zheyu]
+  last_name:
+  first_name:
 
   style: apa
   locale: en
 
-  source: ./_bibliography/
+  source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
