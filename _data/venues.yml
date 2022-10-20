@@ -1,6 +1,16 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"AIChE":
+  url: https://aiche.onlinelibrary.wiley.com/journal/15475905
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CACE":
+  url: https://www.sciencedirect.com/journal/computers-and-chemical-engineering
+
+"ChER&D":
+  url: https://www.journals.elsevier.com/chemical-engineering-research-and-design
+
+"CAChE":
+  url: https://www.sciencedirect.com/bookseries/computer-aided-chemical-engineering
+
+"CET":
+  url: https://www.cetjournal.it/index.php/cet
+  
