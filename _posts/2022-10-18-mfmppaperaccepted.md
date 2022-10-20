@@ -3,7 +3,7 @@ layout: post
 title: Our new paper is published in the 2022 Futures Issue of AIChE Journal
 date: 2022-10-18 15:00:00-0500
 description: An invited article that solves a longstanding challenge in chemical engineering
-tages: distillation mathematical-modeling
+tags: process-synthesis math-modeling optimization
 categories: new-papers
 ---
 
