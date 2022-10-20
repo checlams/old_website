@@ -5,7 +5,7 @@
 "CACE":
   url: https://www.sciencedirect.com/journal/computers-and-chemical-engineering
 
-"ChER&D":
+"ChERD":
   url: https://www.journals.elsevier.com/chemical-engineering-research-and-design
 
 "CAChE":
@@ -13,4 +13,7 @@
 
 "CET":
   url: https://www.cetjournal.it/index.php/cet
+
+"DA 2018":
+  url: https://www.aidic.it/da2018/programme.php
   
