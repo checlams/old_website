@@ -188,6 +188,8 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
 
+plugins_dir: [jekyll-scholar]
+
 # Sitemap settings
 defaults:
   - scope:
