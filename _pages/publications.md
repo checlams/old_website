@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: Peer-reviewed journal publications from CLAMS members and Prof. Jiang
 years: [2022, 2020, 2019, 2018, 2013]
 nav: false
 nav_order:

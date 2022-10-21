@@ -12,52 +12,33 @@
     - title: Ph.D., Chemical Engineering
       institution: Purdue University, West Lafayette, Indiana, USA
       year: 2018
-      description:
-        - Solved a longstanding problem in chemical engineering of developing a shortcut method for minimum reflux calculation for multicomponent distillation in multi-feed, multi-product columns
-        - Developed the first enumeration-based global optimization algorithm to identify distillation configurations that can save up to 50% of total cost or total exergy loss compared to conventional schemes
-        - For the first time, proposed a systematic multi-layer approach for process intensification in multicomponent distillation, offering industrial practitioners an easy-to-follow recipe to synthesize numerous new and intensified configurations that further enhance operability, improve efficiency, and reduce total costs
-    
+      
     - title: B.Ch.E. (Honors), Chemical Engineering
       institution: University of Minnesota, Twin Cities, Minnesota, USA
       year: 2014
-      description:
-        - Developed the first solution processable method to achieve purification of sub-100 nm thin film of exfoliated MFI zeolite nanosheets using density gradient centrifugation
-        - Optimized experimental procedure that fabricated high-quality alpha-alumina membrane supports based on colloidal dispersion processing for MFI nanosheet coating
-
+   
 - title: Professional Experience
   type: time_table
   contents:
     - title: Assistant Professor
-      institution: School of Chemical Engineering, Oklahoma State University, Stillwater, Oklahoma, USA
+      institution: School of Chemical Engineering, Oklahoma State University, Stillwater, OK, USA
       year: 2021 - Present
-      description:
-        - Leading the Computational Laboratory of Advanced Manufacturing and Sustainability (CLAMS) in the School of Chemical Engineering
     
     - title: Process Development Engineer
-      institution: Small Molecule Discovery & Development Group, Corteva Agriscience, Indianapolis, Indiana, USA
+      institution: Small Molecule Discovery & Development Group, Corteva Agriscience, Indianapolis, IN, USA
       year: 2019 - 2021
-      description:
-        - Developed and optimized robust and cost-effective synthesis routes to deliver new fungicide products (e.g., <a href="https://www.corteva.com/products-and-services/adavelt.html">Adavelt</a>) and reduced their solvent consumption by 60% and costs of manufacturing by 40%
-        - Conducted process development and optimization research to enable registration/launch for multiple crop protection actives and developed robust, cost-effective, and sustainable manufacturing technologies
-        - As the company's subject matter expert on liquid separations, designed, optimized, and implemented several novel solvent purification and recovery processes in the production of crop protection actives
-
+      
     - title: Process Development Engineer
-      institution: Active Ingredient Process Development Group, Dow Chemical Company, Midland, Michigan, USA
+      institution: Active Ingredient Process Development Group, Dow Chemical Company, Midland, MI, USA
       year: 2018 - 2019
 
     - title: PhD R&D Intern
-      institution: Engineering and Process Sciences, Core R&D, Dow Chemical Company, Midland, Michigan, USA
+      institution: Engineering and Process Sciences, Core R&D, Dow Chemical Company, Midland, MI, USA
       year: 2016 - 2016
-      description:
-        - Synthesized novel multicomponent distillation sequences for several Dow's core processes that could save up to 10-15% in energy consumption and capital cost compared to current most effective technologies
-        - Organized and hosted weekly meetings involving R&D, engineering, and business experts regarding potential innovation and retrofit opportunities for implementing these newly identified configurations
 
     - title: Engineering Support Specialist
-      institution: Simulation & Tool Development Skill Center, Honeywell UOP, Des Plaines, Illinois, USA
+      institution: Simulation & Tool Development Skill Center, Honeywell UOP, Des Plaines, IL, USA
       year: 2013 - 2013
-      description:
-        - Created new UniSim based process simulations for UOP's Oleflex and FCC technologies and successfully built activity coefficient based models to describe the VLE and LLE for all major components involved
-        - Built a crude oil thermodynamic properties databank for major global oil reserves
 
 - title: Honors and Awards
   type: time_table

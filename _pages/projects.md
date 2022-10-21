@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description:
+description: Highlighted research from CLAMS
 nav: false
 display_categories:
 horizontal: false

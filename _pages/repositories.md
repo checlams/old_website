@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description:
+title: Repositories
+description: Open-source repositories
 nav: false
 nav_order:
 ---
