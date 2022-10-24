@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CLAMS @ OSU # the website title (if blank, full name will be used instead)
+title: CLAMS - Prof. Zheyu Jiang's research group @ OSU # the website title (if blank, full name will be used instead)
 first_name: Zheyu
 middle_name:
 last_name: Jiang
@@ -109,7 +109,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: News # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: Group news, events, and more.
+blog_description: Group news, events, blog posts, and more.
 permalink: /blog/:year/:title/
 
 # Pagination

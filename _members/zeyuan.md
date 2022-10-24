@@ -21,7 +21,7 @@ profile:
     email: taekwon.song@okstate.edu
     orcid: 
     address: >
-        339 Advanced Technology Research Center <br />
+        049 Advanced Technology Research Center <br />
         Oklahoma State University <br />
         Stillwater, OK 74078
 ---
