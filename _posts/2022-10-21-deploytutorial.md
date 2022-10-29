@@ -10,7 +10,7 @@ categories: blog-posts
 
 
 ***
-## What you may do during initial "deployment"
+## Things that may go wrong during your first deployment
 After making changes to our code, you would follow the standard `bundle`, `jekyll build`, and `jekyll serve` commands (or simply `bundle exec jekyll serve`) in your terminal to build the site and make it available on a local server. **However, if you are using you are using Ruby version 3.0.0 or higher, this step [may fail](https://github.com/github/pages-gem/issues/752) because [Ruby 3.0.0 no longer comes with webrick](https://github.com/jekyll/jekyll/issues/8523). Therefore, you need to add `webrick` to your dependencies: `bundle add webrick` before proceeding to the next steps.**
 
 Now, everything looks great on our local host [http://localhost:4000](http://localhost:4000). Since you are aware of the automatic deployment feature added to versions `v0.3.5` and newer, you think you just need to push the changes to GitHub (most probably to the `master` branch), and GitHub should just automatically deploy your website. After all, everything works well locally, what else can happen? OOps! Most likely you will receive an error message like this:

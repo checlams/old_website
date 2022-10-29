@@ -22,5 +22,3 @@ social: true  # includes social icons at the bottom of the page
 We are part of [School of Chemical Engineering](https://ceat.okstate.edu/che/) at [Oklahoma State University](https://go.okstate.edu/) (Go Pokes!), led by Prof. Zheyu Jiang. At CLAMS, we develop advanced computational theories, methods, and tools, as well as systems-oriented solutions and insights to address some of the greatest challenges of our times, such as in **Industrial Decarbonization**, **Agrochemical and Pharmaceutical Manufacturing**, **Digital Agriculture**, and **Sustainability**.
 
 Feel free to [talk to us](mailto:zheyu.jiang@okstate.edu) if you are interested in what we do. We always look for highly motivated, creative perspective students and researchers to join CLAMS. Please check [here]({{ '/assets/pdf/opening/opening_Aug2021.pdf' | relative_url }}) for any open positions and instructions to apply.
-
-Students enrolled in courses taught by Prof. Jiang, please check out [here]({{ '/teaching' | relative_url }}) to find out your courses.
