@@ -3,7 +3,7 @@ layout: page
 title: Innovating future-generation separation technologies
 description: To improve energy efficiency and enable industrial decarbonization
 img: assets/img/projects/chemical plant.jpg
-importance: 1
+importance: 3
 category:
 ---
 
