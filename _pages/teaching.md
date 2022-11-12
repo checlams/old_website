@@ -7,11 +7,26 @@ nav: true
 nav_order: 4
 ---
 
-In Fall 2022, I am teaching *CHE 2581 - Chemical Engineering Sophomore Seminar* with [Prof. Sundar Madihally](https://ceat.okstate.edu/che/faculty-staff/sundar-madihally.html). In this course, we invite industrial and faculty speakers to introduce chemical engineering fundamentals and career development to sophomores.
+In **Fall 2022**, I teach *CHE 2581 - Chemical Engineering Sophomore Seminar* with [Prof. Sundar Madihally](https://ceat.okstate.edu/che/faculty-staff/sundar-madihally.html). In this course, we invite industrial and faculty speakers to introduce the chemical engineering profession and different career paths chemical engineers can pursue to sophomores. We also organize and present various useful resources at OSU (e.g., services in academic tutoring, career development, and mental health and wellness) to sophomore students, teach them practical skills (e.g., resume writing, lab report writing and formatting, career fair and interview prepraration), and introduce needed concepts and qualities for becoming a successful chemical engineer (e.g., engineering ethics, professionalism, chemical process safety).
 
-In Spring 2022, I taught *CHE 3113 - Rate Operations II*. The syllabus for this course can be found [here]({{ 'assets/pdf/Course/CHE3113_Syllabus.pdf' | relative_url }}). This was my first time teaching solo, and I received an overall teaching evaluation score of 4.04 out of 5 ("Good" rating: 3.75-4.25) on end-of-semester course evaluation (response rate = 96%). Learning from students' feedback, I'm ready to improve my teaching the next time I teach Rate Ops II. I also presented a poster highlighting this brand new structure and approach to teach separation principles in a systematic and comprehensive manner during the 2022 ASEE/AIChE Summer School for Engineering Faculty.
+In **Spring 2022**, I restructured and taught a brand new *CHE 3113 - Rate Operations II*. This was my first time teaching solo, and I revamped the course structure and materials to synergistically integrate it with chemical reaction engineering and senior design. I received an overall teaching evaluation score of 4.04 out of 5 ("Good" rating: 3.75-4.25) on end-of-semester course evaluation (response rate = 96%). Learning from students' feedback, I'm ready to improve my teaching the next time I teach Rate Ops II. I also presented a poster during the [2022 ASEE/AIChE Summer School for Engineering Faculty](https://www.aiche.org/conferences/faculty-chemical-engineering-summer-school/2022) to highlight this brand new structure and methodology to teach undergraduate separations course by helping students develop a systematic and comprehensive perspective on the subject matter.
 
-In Fall 2021, I taught *CHE 4124 - Chemical Engineering Design I* along with [Prof. Josh Ramsey](https://ceat.okstate.edu/che/faculty-staff/josh-ramsey.html) and [Prof. Shohreh Hemmati](https://ceat.okstate.edu/che/faculty-staff/shohreh-hemmati.html). I received an overall score of 4.47 out of 5 ("Excellent" rating: >4.25/5) on end-of-semester course evaluation (response rate = 93%).
+<div class="row">
+    <div class="col mt-3 mt-md-0">
+    </div>
+    <div class="col-10 mt-3 mt-md-0">
+        <a href="{{ '/assets/pdf/Course/2022_summer_school.pdf'| relative_url }}" target="_blank">
+            <img class="img-fluid" src="{{ '/assets/pdf/Course/2022_summer_school.pdf'| relative_url }}" alt="2022 ASEE/AIChE Summer School"/>
+        </a>
+    </div>
+    <div class="col mt-3 mt-md-0">
+    </div>
+</div>
+<div class="caption">
+    Poster presented at the 2022 ASEE/AIChE Summer School for Engineering Faculty.
+</div>
+
+In **Fall 2021**, I co-taught *CHE 4124 - Chemical Engineering Design I* along with [Prof. Josh Ramsey](https://ceat.okstate.edu/che/faculty-staff/josh-ramsey.html) and [Prof. Shohreh Hemmati](https://ceat.okstate.edu/che/faculty-staff/shohreh-hemmati.html). I received an overall score of 4.47 out of 5 ("Excellent" rating: >4.25/5) on end-of-semester course evaluation (response rate = 93%).
 
 <div class="row">
     <div class="col mt-3 mt-md-0">

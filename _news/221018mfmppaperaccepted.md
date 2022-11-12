@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our new paper is published in the 2022 Futures Issue of AIChE Journal
+title: Our new paper is published in the 2022 Futures Issue of AIChE Journal, which features "creative early career researchers in chemical engineering".
 date: 2022-10-18 15:00:00-0500
 inline: false
 description: New publication accepted by AIChE Journal
