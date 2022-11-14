@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-10-18 22:11:33-0500
+date: 2022-11-02 22:11:33-0500
 inline: true
 description: Papers accpeted at FOCAPO/CPC 2023 Conference
 ---
