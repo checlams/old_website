@@ -5,4 +5,4 @@ inline: true
 description: Papers accpeted at FOCAPO/CPC 2023 Conference
 ---
 
-CLAMS member Zeyuan Song's paper on [data-driven random walk approach for solving water flow dynamics in soil systems]({{ '/assets/pdf/paper/drw_focapo.pdf' | relative_url }}) is selected for **oral presentation** at FOCAPO/CPC 2023. Only 48 manuscripts were selected for oral presentation out from hundreds of submissions. Learn more [here]({{ 'projects/richards' | relative_url }}).
+CLAMS member Zeyuan Song's paper on [data-driven random walk approach for solving water flow dynamics in soil systems]({{ '/assets/pdf/paper/drw_focapo.pdf' | relative_url }}) is selected for **oral presentation** at FOCAPO/CPC 2023. Only 48 manuscripts were selected for oral presentation. Learn more [here]({{ 'projects/richards' | relative_url }}).
