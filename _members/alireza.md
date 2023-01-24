@@ -17,7 +17,7 @@ profile:
     position: Graduate Student
     phone: (405) 894-3676
     align: right
-    image: people/alireza.jpg
+    image: people/alireza.jpeg
     email: alireza.miraliakbar@okstate.edu
     orcid: 
     address: >

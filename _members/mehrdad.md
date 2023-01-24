@@ -17,7 +17,7 @@ profile:
     position: Graduate Student
     phone: (405) 385-2851
     align: right
-    image: people/mehrdad.jpg
+    image: people/mehrdad.jpeg
     email: mehrdad.zomorodiyan@okstate.edu
     orcid: 
     address: >
