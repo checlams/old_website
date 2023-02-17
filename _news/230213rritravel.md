@@ -5,4 +5,4 @@ inline: true
 description: Dr. Jiang receives travel grant from the Rural Renewal Initiative
 ---
 
-Dr. Akash Deep (Assistant Professor, IEM) and Dr. Jiang's proposal idea on soil moisture sensing has been invited to submit a full proposal to the [Rural Renewal Initiative](https://ruralrenewal.okstate.edu). They will receive travel funds to visit the rural community where they will be conducting the proposed research.
+Prof. Akash Deep (IEM) and Dr. Jiang's proposal idea on soil moisture sensing has been selected by the [Rural Renewal Initiative](https://ruralrenewal.okstate.edu) to submit a full proposal. They will receive travel funds to visit a rural community.
