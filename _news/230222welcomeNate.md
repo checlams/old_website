@@ -2,7 +2,7 @@
 layout: post
 title: CLAMS welcomes Nate Peak as undergraduate researcher
 date: 2023-02-22 15:00:00-0500
-inline: false
+inline: true
 description: Welcome new students!
 ---
 
