@@ -26,7 +26,7 @@ profile:
         Stillwater, OK 74078
 ---
 
-I have been a graduate student in Prof. Jiang's CLAMS group since Spring 2023. Before that, I earned my B.Sc and M.Sc. degrees in Chemical Engineering from the [University of Tehran](https://ut.ac.ir/en) in Iran. Currently, I am working on optimal control of batch crystallization using reinforcement learning. My CV can be found [here]({{ '/assets/pdf/CV/Alireza_Jan23.pdf' | relative_url }}).
+I have been a graduate student in Prof. Jiang's CLAMS group since Spring 2023. Before that, I earned my B.Sc and M.Sc. degrees in Chemical Engineering from the [University of Tehran](https://ut.ac.ir/en) in Iran. Currently, I am working on optimal control of batch crystallization using reinforcement learning. My CV can be found [here]({{ '/assets/pdf/CV/Alireza_Sep23.pdf' | relative_url }}).
 
 ## Education
 
