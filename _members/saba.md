@@ -26,7 +26,7 @@ profile:
         Stillwater, OK 74078
 ---
 
-I have been a graduate student in Prof. Jiang's CLAMS group since Spring 2022. Before that, I earned my M.Sc. degree in Applied Mathematics and B.Sc. degrees in Applied Mathematics and Industrial Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology) in Tehran, Iran. Currently, I'm working on agrochemical supply chain optimization under uncertainties. My CV can be found [here]({{ '/assets/pdf/CV/Saba_Oct22.pdf' | relative_url }}).
+I have been a graduate student in Prof. Jiang's CLAMS group since Spring 2022. Before that, I earned my M.Sc. degree in Applied Mathematics and B.Sc. degrees in Applied Mathematics and Industrial Engineering from [Amirkabir University of Technology (Tehran Polytechnic)](https://en.wikipedia.org/wiki/Amirkabir_University_of_Technology) in Tehran, Iran. Currently, I'm working on agrochemical supply chain optimization under uncertainties. My CV can be found [here]({{ '/assets/pdf/CV/Saba_Sep23.pdf' | relative_url }}).
 
 ## Education
 
