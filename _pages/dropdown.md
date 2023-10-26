@@ -11,6 +11,9 @@ children:
     - title: Publications
       permalink: /publications/
     - title: divider
+    - title: Preprints
+      permalink: /preprints/
+    - title: divider
     - title: Repositories
       permalink: /repositories/
 ---

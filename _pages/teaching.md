@@ -6,7 +6,9 @@ description:
 nav: true
 nav_order: 4
 ---
-In **Spring 2023**, I teach *CHE 3113 - Rate Operations II* again. I received an overall teaching evaluation score of 4.38 out of 5 ("Excellent" rating) on end-of-semester course evaluation (response rate = 95%). 
+In **Fall 2023**, I am teaching *CHE 4124 - Chemical Engineering Design I* for the second time.
+
+In **Spring 2023**, I taught *CHE 3113 - Rate Operations II* for the second time. I received an overall teaching evaluation score of 4.38 out of 5 ("Excellent" rating) on end-of-semester course evaluation (response rate = 95%). 
 
 In **Fall 2022**, I taught *CHE 2581 - Chemical Engineering Sophomore Seminar* with [Prof. Sundar Madihally](https://ceat.okstate.edu/che/faculty-staff/sundar-madihally.html). In this course, we invited industrial and faculty speakers to introduce the chemical engineering profession and different career paths chemical engineers can pursue to sophomores. We also organized and presented various useful resources at OSU (e.g., services in academic tutoring, career development, and mental health and wellness) to sophomore students, taught them practical skills (e.g., resume writing, lab report writing and formatting, career fair and interview prepraration), and introduced needed concepts and qualities for becoming a successful chemical engineer (e.g., engineering ethics, professionalism, chemical process safety). I received an overall teaching evaluation score of 4.71 out of 5 ("Excellent" rating) on end-of-semester course evaluation (response rate = 91%). 
 
