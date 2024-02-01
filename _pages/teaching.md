@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
-In **Fall 2023**, I am teaching *CHE 4124 - Chemical Engineering Design I* for the second time.
+In **Fall 2023**, I taught *CHE 4124 - Chemical Engineering Design I* for the second time, with [Prof. Clint Aichele](https://ceat.okstate.edu/che/faculty-staff/clint-aichele.html). I received an overall teaching evaluation score of 4.4 out of 5. In the Phillips 66 Design Project competition, we explored ways to maximize ultra-low-sulur diesel production from the sweet gas oil to improve overall process economics of hydrotreating process.
 
 In **Spring 2023**, I taught *CHE 3113 - Rate Operations II* for the second time. I received an overall teaching evaluation score of 4.38 out of 5 ("Excellent" rating) on end-of-semester course evaluation (response rate = 95%). 
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /preprints/
 title: Preprints
 description: Preprints from CLAMS members
-years: [2023]
+years: [2024, 2023]
 nav: false
 nav_order:
 ---
