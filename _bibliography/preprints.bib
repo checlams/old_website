@@ -1,5 +1,5 @@
 @misc{song2023datafacilitated,
-    title={A Data-facilitated Numerical Method for Richards Equation to Model Water Flow Dynamics in Soil}, 
+    title={A Novel Data-driven Numerical Method for Hydrological Modeling of Water Infiltration in Porous Media}, 
     author={Zeyuan Song and Zheyu Jiang},
     year={2023},
     eprint={2310.02806},
@@ -8,19 +8,9 @@
     doi = {https://doi.org/10.48550/arXiv.2310.02806},
     html = {https://arxiv.org/abs/2310.02806},
     pdf = {preprint/dgrw.pdf},
-    abstract = {Root-zone soil moisture monitoring is essential for precision agriculture, smart irrigation, and drought prevention. Modeling the spatiotemporal water flow dynamics in soil is typically achieved by solving a hydrological model, such as the Richards equation which is a highly nonlinear partial differential equation (PDE). In this paper, we present a novel data-facilitated numerical method for solving the mixed-form Richards equation. This numerical method, which we call the D-GRW (Data-facilitated global Random Walk) method, synergistically integrates adaptive linearization scheme, neural networks, and global random walk in a finite volume discretization framework to produce accurate numerical solutions of the Richards equation with guaranteed convergence under reasonable assumptions. Through three illustrative examples, we demonstrate and discuss the superior accuracy and mass conservation performance of our D-GRW method and compare it with benchmark numerical methods and commercial solver.},
+    abstract = {Root-zone soil moisture monitoring is essential for sensor-based smart irrigation and agricultural drought prevention. Modeling the spatiotemporal water flow dynamics in porous media such as soil is typically achieved by solving an agro-hydrological model, the most important of which being the Richards equation. In this paper, we present a novel data-driven solution algorithm named the DRW (Data-driven global Random Walk) algorithm, which holistically integrates adaptive linearization scheme, neural networks, and global random walk in a finite volume discretization framework. We discuss the need and benefits of introducing these components to achieve synergistic improvements in solution accuracy and numerical stability. We show that the DRW algorithm can accurately solve $n$-dimensional Richards equation with guaranteed convergence under reasonable assumptions. Through examples, we also demonstrate that the DRW algorithm can better preserve the underlying physics and mass conservation of the Richards equation compared to state-of-the-art solution algorithms and commercial solver.},
     bibtex_show = {true},
     preview = {dgrw.jpg},
-}
-
-@misc{alireza2024focapd,
-    title={Fast, Accurate, and Robust Fault Detection and Diagnosis of Industrial Processes}, 
-    author={Alireza Miraliakbar and Zheyu Jiang},
-    year={2024},
-    pdf = {preprint/farm_focapd.pdf},
-    abstract = {Modern industrial processes are continuously monitored by a large number of sensors. Despite hav-ing access to large volumes of historical and online sensor data, industrial practitioners still face challenges in the era of Industry 4.0 in effectively utilizing them to perform online process monitor-ing and fast fault detection and diagnosis. To target these challenges, in this work, we present a novel framework named “FARM” for Fast, Accurate, and Robust online process Monitoring. FARM is a holistic monitoring framework that integrates (a) advanced multivariate statistical process control (SPC) for fast anomaly detection of nonparametric, heterogeneous data streams, and (b) modified support vector machine (SVM) for accurate and robust fault classification. Unlike existing general-purpose process monitoring frameworks, FARM’s unique hierarchical architecture decomposes pro-cess monitoring into two fault detection and diagnosis, each of which is conducted by targeted al-gorithms. Here, we test and validate the performance of our FARM monitoring framework on Ten-nessee Eastman Process (TEP) benchmark dataset. We show that SPC achieves faster fault de-tection speed at a lower false alarm rate compared to state-of-the-art benchmark fault detection methods. In terms of fault classification diagnosis, we show that our modified SVM algorithm suc-cessfully classifies 17 out of 20 of the fault scenarios present in the TEP dataset. Compared with the results of standard SVM trained directly on the original dataset, our modified SVM improves the fault classification accuracy significantly.},
-    bibtex_show = {true},
-    preview = {tep.png},
 }
 
 @misc{jianxin2024pdl,
