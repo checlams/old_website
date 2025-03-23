@@ -23,7 +23,7 @@ profile:
     address:
 ---
 
-I'm Tylee Kareck, a third-year Chemical Engineering student. I was born and raised in Reno, Nevada. I am a [CEAT Research Scholar](https://ceat.okstate.edu/scholarships/scholar-programs/undergraduate-research-scholars-program.html). My resume can be found [here]({{ '/assets/pdf/CV/Tylee_Dec24.pdf' | relative_url }}). Go Pokes!
+I'm Tylee Kareck, a third-year Chemical Engineering student. I was born and raised in Reno, Nevada. I am a [CEAT Research Scholar](https://ceat.okstate.edu/scholarships/scholar-programs/undergraduate-research-scholars-program.html). My resume can be found [here]({{ '/assets/pdf/CV/Tylee.pdf' | relative_url }}). Go Pokes!
 
 ## Education
 
