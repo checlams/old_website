@@ -74,9 +74,6 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
-      - name: Install deps
-        run: |
-          npm install -g mermaid.cli
       - name: Setup Python 🐍
         uses: actions/setup-python@v5
         with:
@@ -89,6 +86,9 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Install deps
+        run: |
+          npm install -g mermaid.cli
       - name: Install and Build 🔧
         run: |
           sudo apt-get update && sudo apt-get install -y imagemagick
