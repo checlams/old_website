@@ -1,6 +1,6 @@
 # checlams.github.io
 
-This hosts the website for our lab at Oklahoma State University. 
+This hosts the website for our lab at Oklahoma State University.
 
 ## License
 
