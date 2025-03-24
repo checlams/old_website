@@ -4,15 +4,15 @@ title: Home
 permalink: /
 subtitle: Welcome to the Computational Laboratory for Advanced Manufacturing and Sustainability (CLAMS).
 
-profile:
-  align: right
-  image: osu_campus2.png
-  image_circular: false # crops the image to make it circular
-  address: >
-    School of Chemical Engineering<br />
-    420 Engineering North<br />
-    Oklahoma State University<br />
-    Stillwater, OK 74074-5016 USA
+# profile:
+#   align: right
+#   image: osu_campus2.png
+#   image_circular: false # crops the image to make it circular
+#   address: >
+#     School of Chemical Engineering<br />
+#     420 Engineering North<br />
+#     Oklahoma State University<br />
+#     Stillwater, OK 74074-5016 USA
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
